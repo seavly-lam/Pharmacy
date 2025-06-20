@@ -1,0 +1,11 @@
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: adminseavly123
+
+
+
+
+
+
