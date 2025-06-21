@@ -121,7 +121,6 @@ class PurchaseController extends Controller
     'supplier_id' => $request->supplier,
     'cost_price' => $request->cost_price,
     'quantity' => $request->quantity,
-    'original_quantity' => $request->quantity,  // <-- THIS LINE
     'expiry_date' => $request->expiry_date,
     'image' => $imageName,
 ]);
